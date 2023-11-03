@@ -63,9 +63,9 @@ bash
 
 docker ps
 
-![Example Screenshot](screenshots/Screenshot_1.png)
-![Example Screenshot](screenshots/Screenshot_2.png)
-![Example Screenshot](screenshots/Screenshot_3.png)
+![Example Screenshot](screenshots/Screenshot_A.png)
+![Example Screenshot](screenshots/Screenshot_B.png)
+![Example Screenshot](screenshots/Screenshot_C.png)
 
 
 
