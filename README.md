@@ -35,3 +35,7 @@ In this homework, i build a model for predicting if we have an image of a bee or
 * -> Homework #9
 
 In this homework, l deployed a deep learning model with TF lite and AWS lambda
+
+* -> Homework #10
+
+In this homework, i used Kubernetes to deploy a machine learning service 
